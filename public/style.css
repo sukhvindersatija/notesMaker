@@ -1,0 +1,30 @@
+.headernon{
+  text-align: center;
+  font-family: sans-serif;
+  color: purple;
+
+}
+#htmlbody{
+  background-color: #F0ECE3;
+}
+.formsnon{
+  text-align: center;
+  margin-top:25px;
+
+}
+.btn{
+  display: inline-block;
+  margin: auto;
+  margin-top: 5px;
+}
+
+textarea{
+  display: block;
+  margin: auto;
+
+}
+#formscs{
+
+  margin: auto;
+
+}

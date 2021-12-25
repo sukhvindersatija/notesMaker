@@ -1,0 +1,10 @@
+<%- include('./include/header.ejs') %>
+  <body id='htmlbody'>
+    <h1>Your Notes are Ready</h1>
+    <%for(let i=0;i<data1.length;i++){%>
+          <ul>
+            <li><%=data1[i]%></li>
+          </ul>
+    <%}%>
+  </body>
+</html>
